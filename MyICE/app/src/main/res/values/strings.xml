@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyICE</string>
+    <string name="name">stuff_name</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="picture">stuff_image</string>
+    <string name="button1">전화연결</string>
+    <string name="button2">email</string>
+    <string name="button3">지도보기</string>
+</resources>
